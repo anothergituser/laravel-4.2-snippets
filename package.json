@@ -1,15 +1,13 @@
 {
   "name": "laravel-4-snippets",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": false,
   "description": "Laravel 4.2 snippets, created using https://github.com/james2doyle/sublime-to-atom-snippets ",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/anothergituser/laravel-4.2-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
